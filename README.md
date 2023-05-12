@@ -1,7 +1,5 @@
 # DAM - DI6 - Dashboard
 
-_DASHBOARD es una aplicación de consulta de datos realizada sobre la base de datos NorthWind._
-
 
 ## Indice 📋
 + About
