@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<Title>Getting Started</Title>
+<style>
+	* { font-family: sans-serif; background-color: #EEEEEE; }
+	h1, h2, h3 { color: #2a64c5; }
+	.lista { margin-bottom: 16px; }
+	a { font-size: 12px; }
+</style>
+</HEAD>
+<BODY>
+<h1>Getting Started</h1>
+<p>DASHBOARD es una aplicación de consulta de datos realizada sobre la base de datos NorthWind. En la pantalla principal de la aplicación podemos encontrar diferentes secciones que nos ayudarán a llevar a cabo estas consultas.</p>
+
+<h2>Contenido</h2>
+<ul>
+	<li><a href="getting_started.html#filtros">Filtros</a>
+		<ul>
+			<li><a href="#filtrado_clientes">Filtrado de clientes</a></li>
+			<li><a href="#busqueda_clientes">Búsqueda de clientes</a></li>
+		</ul>
+	</li>
+	<li><a href="#menu_lateral">Menú lateral</a>
+		<ul>
+			<li><a href="#general">General</a></li>
+			<li><a href="#info_cliente">Info Cliente</a></li>
+			<li><a href="#pedidos">Pedidos</a></li>
+			<li><a href="#reportes">Reportes</a></li>
+		</ul>
+	</li>
+</ul>
+
+<a name="filtros"></a>
+<h2>Filtros</h2>
+<p style="text-align: center; "><img src="images/encabezado.jpg" alt="Encabezado Dashboard"></p>
+<p>Esta sección se encuentra en la cabecera de la pantalla principal. En ella nos encotramos dos zonas diferenciadas: </p>
+
+<a name="filtrado_clientes"></a>
+<h3>Filtrado de clientes</h3>
+<p>Aquí puede realizar filtros sobre los clientes de la base de datos. Para ello puede hacerlo de dos formas diferentes:
+	<ul>
+		<li class="lista"><b>Filtro directo por clientes</b>.- Se despliega directamente el cuadro combinado de "Clientes", y se puede elegir un cliente de entre todos los que se encuentran en la base de datos.</li>
+		<li class="lista"><b>Filttrado previo por países</b>.- Primero se despliega el cuadro combinado de "Paises" seleccionando el pais deseado. Posteriormente se puede elegir en el cuadro de "Clientes" uno de los clientes correspondientes al pais elegido.</li>
+	</ul>
+</p>
+
+<a name="busqueda_clientes"></a>
+<h3>Búsqueda de clientes</h3>
+<p>En este apartado se pueden realizar búsquedas de cliente, para ello basta con hacer clic dentro del cuadro combinado de "Búsqueda de clientes" y comenzar a escribir. La aplicación dará a elegir entre los clientes que contengan el texto introducido.</p>
+
+<a name="menu_lateral"></a>
+<h2>Menú lateral</h2>
+<p style="text-align: center; "><img src="images/menus.jpg" alt="Menus Dashboard"></p>
+<p>Esta sección se encuentra en la parte inquierda de la pantalla principal. Para activar cualquiera de los botones de está sección, es necesario haber seleccionado previamente un cliente en la zona de Filtrado de clientes.
+	<ul>
+		<a name="general"></a>
+		<li><b>General</b>.- Muestra una pantalla donde se pueden ver las estadísticas del cliente seleccionado. Estas estadísticas son: Total de <b>ventas</b>, total de <b>pedidos</b>, <b>descuento medio</b> aplicado y un <b>gráfico</b> donde se muestran las ventas y las unidades compradas por el cliente.</li>
+		<p style="text-align: center; "><img src="images/general.jpg" alt="Estadísticas del cliente"></p>
+		
+		<a name="info_cliente"></a>
+		<li><b>Info Cliente</b>.- Muestra una pantalla donde se pueden ver todos los datos del cliente seleccionado.</li>
+		<p style="text-align: center; "><img src="images/info.jpg" alt="Información acerca del cliente"></p>
+		
+		<a name="pedidos"></a>
+		<li><b>Pedidos</b>.- Muestra los pedidos del cliente seleccionado y haciendo doble clic sobre uno de los pedidos se puede acceder al detalle de dicho pedido.</li>
+		<p style="text-align: center; "><img src="images/pedidos.jpg" alt="Pedidos del cliente"></p>
+		
+		<a name="reportes"></a>
+		<li><b>Reportes</b>.- Muestra los posibles reportes que se pueden realizar:
+		<p style="text-align: center; "><img src="images/reportes.jpg" alt="Reportes"></p>
+			<ul>
+				<li class="lista"><b>Productos por categoría</b>.- Listado de productos por cada categoría. Se debe introducir un número de categoría (Entre el 1 y el 8) para mostrar sus productos o el 0 para listar todas las categorías.</li>
+				<li class="lista"><b>Pedidos en un periodo</b>.-Listado de todos los pedidos cursados entre las dos fechas elegidas.</li>
+				<li class="lista"><b>Productosmás vendidos</b>.-Listado de los productos más vendidos entre las dos fechas elegidas.</li>
+			</ul>
+		</li>
+	</ul>
+ </p>
+
+
+</BODY>
+</HTML>

@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Ayuda.chm
+Contents file=Table of Contents.hhc
+Default Window=Buscar
+Default topic=index.html
+Display compile progress=No
+Index file=Index.hhk
+Language=0xc0a Español (España, internacional)
+Title=NorthWind
+
+[WINDOWS]
+Buscar=,"Table of Contents.hhc","Index.hhk","index.html",,,,,,0x2120,,0x3006,,,,,,,,0
+
+
+[INFOTYPES]
+

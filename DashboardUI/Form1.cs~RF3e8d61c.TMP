@@ -1,0 +1,195 @@
+﻿using DashboardBLL;
+using DashboardUI.ControlesUsuario;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using Utilidades.VO;
+
+namespace DashboardUI
+{
+    public partial class Form1 : Form
+    {
+        private TableLayoutPanel tlpDinamico;
+        private UserControl ucDinamico;
+
+        private CLienteVO clienteActivo;
+        public CLienteVO ClienteActivo { get => clienteActivo; set => clienteActivo = value; }
+        
+        List<CLienteVO> clientes;
+
+
+        public Form1()
+        {
+            InitializeComponent();
+
+            tlpDinamico = tlp_Base;
+            ucDinamico = new ControlesUsuario.InicialUC();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            tlpDinamico.Controls.Add(ucDinamico, 1, 1);
+            CargarFiltros();
+        }
+
+        private void CargarFiltros()
+        {
+            GestionDashboard gestionDashboard = new GestionDashboard();
+            clientes = gestionDashboard.RecogerClientes();
+
+            foreach (CLienteVO cliente in clientes)
+            {
+                cB_FiltroCliente.Items.Add(cliente);
+
+                bool paisEncontrado = false;
+                int numElemCombPais = cB_FiltroPais.Items.Count;
+                for (int i = 0; i < numElemCombPais; i++)
+                {
+                    if (cB_FiltroPais.Items[i].Equals(cliente.Pais))
+                    {
+                        paisEncontrado = true;
+                    }
+                }
+
+                if (!paisEncontrado)
+                {
+                    cB_FiltroPais.Items.Add(cliente.Pais);
+                }
+            }
+        }
+
+        private void btn_General_MouseHover(object sender, EventArgs e)
+        {
+            tlp_General.BackColor = SystemColors.ActiveCaption;
+        }
+
+        private void btn_General_MouseLeave(object sender, EventArgs e)
+        {
+            tlp_General.BackColor = SystemColors.Highlight;
+        }
+
+        private void btn_Info_MouseHover(object sender, EventArgs e)
+        {
+            tlp_Info.BackColor = SystemColors.ActiveCaption;
+        }
+
+        private void btn_Info_MouseLeave(object sender, EventArgs e)
+        {
+            tlp_Info.BackColor = SystemColors.Highlight;
+        }
+
+        private void btn_Pedidos_MouseHover(object sender, EventArgs e)
+        {
+            tlp_Pedidos.BackColor = SystemColors.ActiveCaption;
+        }
+
+        private void btn_Pedidos_MouseLeave(object sender, EventArgs e)
+        {
+            tlp_Pedidos.BackColor = SystemColors.Highlight;
+        }
+
+        private void btn_General_Click(object sender, EventArgs e)
+        {
+            if (cB_FiltroCliente.SelectedIndex == -1)
+            {
+                string mensaje = "Debes seleccionar un cliente para mostrar su resumen";
+                string caption = "Selección de cliente";
+                MessageBoxButtons botones = MessageBoxButtons.OK;
+                DialogResult result = MessageBox.Show(mensaje, caption, botones);
+            }
+            else
+            {
+                clienteActivo = (CLienteVO)cB_FiltroCliente.SelectedItem;
+
+                tlpDinamico.Controls.Remove(ucDinamico);
+                ucDinamico = new ControlesUsuario.GeneralUC(clienteActivo);
+                tlpDinamico.Controls.Add(ucDinamico, 1, 1);
+            }
+        }
+
+        private void btn_Info_Click(object sender, EventArgs e)
+        {
+            if (cB_FiltroCliente.SelectedIndex == -1)
+            {
+                string mensaje = "Debes seleccionar un cliente para mostrar su información";
+                string caption = "Selección de cliente";
+                MessageBoxButtons botones = MessageBoxButtons.OK;
+                DialogResult result = MessageBox.Show(mensaje, caption, botones);
+            }
+            else
+            {
+                clienteActivo = (CLienteVO)cB_FiltroCliente.SelectedItem;
+
+                tlpDinamico.Controls.Remove(ucDinamico);
+                ucDinamico = new ControlesUsuario.InfoClienteUC(clienteActivo);
+                tlpDinamico.Controls.Add(ucDinamico, 1, 1);
+            }
+        }
+
+        private void btn_Pedidos_Click(object sender, EventArgs e)
+        {
+            if (cB_FiltroCliente.SelectedIndex == -1)
+            {
+                string mensaje = "Debes seleccionar un cliente para mostrar sus pedidos";
+                string caption = "Selección de cliente";
+                MessageBoxButtons botones = MessageBoxButtons.OK;
+                DialogResult result = MessageBox.Show(mensaje, caption, botones);
+            }
+            else
+            {
+                clienteActivo = (CLienteVO)cB_FiltroCliente.SelectedItem;
+
+                tlpDinamico.Controls.Remove(ucDinamico);
+                ucDinamico = new ControlesUsuario.PedidosUC(clienteActivo);
+                tlpDinamico.Controls.Add(ucDinamico, 1, 1);
+            }
+        }
+
+        private void cB_FiltroCliente_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            clienteActivo = (CLienteVO)cB_FiltroCliente.SelectedItem;
+
+            tlpDinamico.Controls.Remove(ucDinamico);
+            ucDinamico = new ControlesUsuario.GeneralUC(clienteActivo);
+            tlpDinamico.Controls.Add(ucDinamico, 1, 1);
+        }
+
+        private void btn_Reportes_Click(object sender, EventArgs e)
+        {
+            tlpDinamico.Controls.Remove(ucDinamico);
+            ucDinamico = new ControlesUsuario.ReportesUC();
+            tlpDinamico.Controls.Add(ucDinamico, 1, 1);
+        }
+
+        private void cB_FiltroPais_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (cB_FiltroPais.SelectedIndex != -1)
+            {
+                String paisSeleccionado = (String)cB_FiltroPais.SelectedItem;
+                cB_FiltroCliente.Items.Clear();
+                cB_FiltroCliente.SelectedText = "";
+
+                tlpDinamico.Controls.Remove(ucDinamico);
+                ucDinamico = new ControlesUsuario.InicialUC();
+                tlpDinamico.Controls.Add(ucDinamico, 1, 1);
+
+                GestionDashboard gestionDashboard = new GestionDashboard();
+                clientes = gestionDashboard.RecogerClientes();
+
+                foreach (CLienteVO cliente in clientes)
+                {
+                    if (cliente.Pais.Equals(paisSeleccionado))
+                    {
+                        cB_FiltroCliente.Items.Add(cliente);
+                    }
+                }
+            }
+        }
+    }
+}

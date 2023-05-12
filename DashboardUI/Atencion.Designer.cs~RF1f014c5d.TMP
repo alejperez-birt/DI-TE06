@@ -1,0 +1,127 @@
+﻿namespace DashboardUI
+{
+    partial class Atencion
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.tlp_BaseAtencion = new System.Windows.Forms.TableLayoutPanel();
+            this.lbl_Texto = new System.Windows.Forms.Label();
+            this.tlp_Inferior = new System.Windows.Forms.TableLayoutPanel();
+            this.btn_Volver = new System.Windows.Forms.Button();
+            this.helpProvider1 = new System.Windows.Forms.HelpProvider();
+            this.tlp_BaseAtencion.SuspendLayout();
+            this.tlp_Inferior.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // tlp_BaseAtencion
+            // 
+            this.tlp_BaseAtencion.ColumnCount = 1;
+            this.tlp_BaseAtencion.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tlp_BaseAtencion.Controls.Add(this.lbl_Texto, 0, 0);
+            this.tlp_BaseAtencion.Controls.Add(this.tlp_Inferior, 0, 1);
+            this.tlp_BaseAtencion.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tlp_BaseAtencion.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tlp_BaseAtencion.Location = new System.Drawing.Point(0, 0);
+            this.tlp_BaseAtencion.Name = "tlp_BaseAtencion";
+            this.tlp_BaseAtencion.RowCount = 2;
+            this.tlp_BaseAtencion.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 60F));
+            this.tlp_BaseAtencion.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 40F));
+            this.tlp_BaseAtencion.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
+            this.tlp_BaseAtencion.Size = new System.Drawing.Size(234, 102);
+            this.tlp_BaseAtencion.TabIndex = 0;
+            // 
+            // lbl_Texto
+            // 
+            this.lbl_Texto.AutoSize = true;
+            this.lbl_Texto.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl_Texto.Font = new System.Drawing.Font("Segoe UI", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_Texto.Location = new System.Drawing.Point(10, 9);
+            this.lbl_Texto.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
+            this.lbl_Texto.Name = "lbl_Texto";
+            this.lbl_Texto.Size = new System.Drawing.Size(214, 43);
+            this.lbl_Texto.TabIndex = 0;
+            this.lbl_Texto.Text = "lbl_Texto";
+            this.lbl_Texto.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // tlp_Inferior
+            // 
+            this.tlp_Inferior.ColumnCount = 2;
+            this.tlp_Inferior.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tlp_Inferior.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tlp_Inferior.Controls.Add(this.btn_Volver, 1, 0);
+            this.tlp_Inferior.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tlp_Inferior.Location = new System.Drawing.Point(0, 61);
+            this.tlp_Inferior.Margin = new System.Windows.Forms.Padding(0);
+            this.tlp_Inferior.Name = "tlp_Inferior";
+            this.tlp_Inferior.RowCount = 1;
+            this.tlp_Inferior.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tlp_Inferior.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 41F));
+            this.tlp_Inferior.Size = new System.Drawing.Size(234, 41);
+            this.tlp_Inferior.TabIndex = 2;
+            // 
+            // btn_Volver
+            // 
+            this.btn_Volver.Dock = System.Windows.Forms.DockStyle.Right;
+            this.btn_Volver.Location = new System.Drawing.Point(151, 8);
+            this.btn_Volver.Margin = new System.Windows.Forms.Padding(8);
+            this.btn_Volver.Name = "btn_Volver";
+            this.btn_Volver.Size = new System.Drawing.Size(75, 25);
+            this.btn_Volver.TabIndex = 4;
+            this.btn_Volver.Text = "Volver";
+            this.btn_Volver.UseVisualStyleBackColor = true;
+            // 
+            // Atencion
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
+            this.ClientSize = new System.Drawing.Size(234, 102);
+            this.Controls.Add(this.tlp_BaseAtencion);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.HelpButton = true;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.Name = "Atencion";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Atención";
+            this.Load += new System.EventHandler(this.Atencion_Load);
+            this.tlp_BaseAtencion.ResumeLayout(false);
+            this.tlp_BaseAtencion.PerformLayout();
+            this.tlp_Inferior.ResumeLayout(false);
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.TableLayoutPanel tlp_BaseAtencion;
+        private System.Windows.Forms.Label lbl_Texto;
+        private System.Windows.Forms.TableLayoutPanel tlp_Inferior;
+        private System.Windows.Forms.Button btn_Volver;
+        private System.Windows.Forms.HelpProvider helpProvider1;
+    }
+}

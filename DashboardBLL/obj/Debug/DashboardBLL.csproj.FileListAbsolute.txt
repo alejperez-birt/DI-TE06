@@ -1,0 +1,332 @@
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\DashboardBLL.dll.config
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\DashboardBLL.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\DashboardBLL.pdb
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Azure.Core.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Azure.Identity.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\DashboardDAL.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.Identity.Client.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Buffers.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Data.SqlClient.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Memory.Data.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Memory.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Numerics.Vectors.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Security.AccessControl.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Security.Permissions.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Security.Principal.Windows.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Text.Encodings.Web.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Text.Json.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.ValueTuple.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Utilidades.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\DashboardDAL.pdb
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\DashboardDAL.dll.config
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Utilidades.pdb
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Utilidades.dll.config
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Azure.Core.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Azure.Identity.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.Identity.Client.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Buffers.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Data.SqlClient.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Memory.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Memory.Data.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Numerics.Vectors.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Security.AccessControl.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Security.Permissions.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Security.Principal.Windows.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Text.Encodings.Web.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Text.Json.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\System.ValueTuple.xml
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.csproj.AssemblyReference.cache
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.csproj.CoreCompileInputs.cache
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.csproj.CopyComplete
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.dll
+D:\DAM\DI\DI04\Tarea Evaluativa 01B\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.pdb
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\DashboardBLL.dll.config
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\DashboardBLL.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\DashboardBLL.pdb
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Azure.Core.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Azure.Identity.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\DashboardDAL.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Data.SqlClient.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Identity.Client.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Buffers.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Data.SqlClient.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Memory.Data.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Memory.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Numerics.Vectors.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Security.AccessControl.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Security.Permissions.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Security.Principal.Windows.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Text.Encodings.Web.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Text.Json.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.ValueTuple.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Utilidades.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\DashboardDAL.pdb
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\DashboardDAL.dll.config
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Utilidades.pdb
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Utilidades.dll.config
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Azure.Core.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Azure.Identity.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Data.SqlClient.pdb
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Data.SqlClient.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Identity.Client.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Buffers.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Configuration.ConfigurationManager.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Data.SqlClient.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Memory.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Memory.Data.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Numerics.Vectors.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Security.AccessControl.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Security.Permissions.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Security.Principal.Windows.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Text.Encodings.Web.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Text.Json.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\System.ValueTuple.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.csproj.AssemblyReference.cache
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.csproj.CoreCompileInputs.cache
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.csproj.CopyComplete
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\perez_jurado_alejandro_DI04_TareaEvaluativa01\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.pdb
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\DashboardBLL.dll.config
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\DashboardBLL.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\DashboardBLL.pdb
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Azure.Core.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Azure.Identity.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\DashboardDAL.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Data.SqlClient.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Identity.Client.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Buffers.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Data.SqlClient.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Memory.Data.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Memory.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Numerics.Vectors.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Security.AccessControl.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Security.Permissions.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Security.Principal.Windows.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Text.Encodings.Web.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Text.Json.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.ValueTuple.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Utilidades.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\DashboardDAL.pdb
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\DashboardDAL.dll.config
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Utilidades.pdb
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Utilidades.dll.config
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Azure.Core.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Azure.Identity.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Data.SqlClient.pdb
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Data.SqlClient.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Identity.Client.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Buffers.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Configuration.ConfigurationManager.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Data.SqlClient.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Memory.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Memory.Data.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Numerics.Vectors.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Security.AccessControl.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Security.Permissions.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Security.Principal.Windows.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Text.Encodings.Web.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Text.Json.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.ValueTuple.xml
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.csproj.AssemblyReference.cache
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.csproj.CoreCompileInputs.cache
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.csproj.CopyComplete
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.dll
+G:\Mi unidad\DAM\DI\DI05\Tarea Evaluativa 01\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.pdb
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\DashboardBLL.dll.config
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\DashboardBLL.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\DashboardBLL.pdb
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Azure.Core.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Azure.Identity.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\DashboardDAL.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Data.SqlClient.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Identity.Client.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Buffers.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Data.SqlClient.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Memory.Data.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Memory.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Numerics.Vectors.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Security.AccessControl.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Security.Permissions.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Security.Principal.Windows.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Text.Encodings.Web.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Text.Json.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.ValueTuple.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Utilidades.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\DashboardDAL.pdb
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\DashboardDAL.dll.config
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Utilidades.pdb
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Utilidades.dll.config
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Azure.Core.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Azure.Identity.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Data.SqlClient.pdb
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Data.SqlClient.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Identity.Client.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Buffers.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Configuration.ConfigurationManager.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Data.SqlClient.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Memory.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Memory.Data.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Numerics.Vectors.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Security.AccessControl.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Security.Permissions.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Security.Principal.Windows.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Text.Encodings.Web.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Text.Json.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\System.ValueTuple.xml
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.csproj.AssemblyReference.cache
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.csproj.CoreCompileInputs.cache
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.csproj.CopyComplete
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.dll
+G:\Mi unidad\DAM\DI\DI06\Tarea Evaluativa 01\Dashboard\DashboardBLL\obj\Debug\DashboardBLL.pdb
